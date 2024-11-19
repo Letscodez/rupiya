@@ -1,2 +1,13 @@
 # rupiya
-"Rupiya" is a beginner-friendly npm package to easily convert between rupees and paise. Perfect for my first project, it's simple, desi, and super useful for everyday currency needs!
+
+`rupiya` is a JavaScript/TypeScript library that simplifies the conversion of currency amounts into words in the Indian numbering system (lakhs, crores). This is ideal for displaying numbers in a more readable format, especially in applications for Indian users.
+
+## Installation
+
+To install `rupiya`, run the following command:
+
+```bash
+npm install rupiya
+```
+
+## 🔗[Licence](LICENCE)
