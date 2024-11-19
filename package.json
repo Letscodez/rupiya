@@ -1,0 +1,26 @@
+{
+  "name": "rupiya",
+  "version": "1.0.0",
+  "description": "\"Rupiya\" is a beginner-friendly npm package to easily convert between rupees and paise. Perfect for my first project, it's simple, desi, and super useful for everyday currency needs!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Letscodez/rupiya.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "LetsCodez ~ Anuj Sah",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Letscodez/rupiya/issues"
+  },
+  "homepage": "https://github.com/Letscodez/rupiya#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
